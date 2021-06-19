@@ -5,8 +5,9 @@ import Image from 'next/image';
 function Home() {
   return (
     <div className="sm:px-64 pt-5">
+      <title>Bibit Clone</title>
         <div>
-          <nav className="flex justify-between">
+          <nav className="flex justify-between mr-5">
             <Image 
               src="/bibitlogo.jpg"
               width={120}
@@ -23,12 +24,10 @@ function Home() {
             Portfolio
           <br/>      
       </div>
-
       <div className="flex justify-between">
             <div className="ml-5">
-            Rp 900.925
+            Rp 21.927.520
             </div>
-
           <div className="mr-5">
             <img className="w-4" src="/kunci.jpg" />
           </div>
@@ -38,7 +37,6 @@ function Home() {
           <div className="ml-5 font-lg text-gray-400 mt-1">
           Keuntungan
           </div>
-
           <div className="font-lg text-gray-400 mr-5">
             Imbal hasil
           </div>
@@ -46,11 +44,10 @@ function Home() {
 
         <div className="flex justify-between">
           <div className="ml-5 font-lg text-green-600">
-            Rp 3,725
+            Rp 870,520
           </div>
-
           <div className="mr-5 font-lg text-green-600">
-            +0.28%
+            +1.28%
           </div>
         </div>
 
@@ -60,8 +57,7 @@ function Home() {
         <div className="ml-5 text-green-600 font-lg mt-1 mb-1">
           Lihat Portfolio
         </div>
-
-        <div className="mr-5 ">
+        <div className="mr-5 mt-1">
           ➢ 
         </div>
       </div>
@@ -75,7 +71,6 @@ function Home() {
           <h4 className="font-bold">Tuku Mobil</h4>
           <h1 className="font-lg text-gray-400">3 Reksadana</h1>
           </div>
-
           <div className="mr-5 mt-3">
             <img className="w-8" src="/ayam.png" />
           </div>
@@ -85,12 +80,11 @@ function Home() {
       <div className="flex justify-between">
         <div className="ml-5">
           <h4 className="font-lg text-gray-400">Investasi</h4>
-          <h5>Rp 900.725</h5>
+          <h5>Rp 21.927.520</h5>
         </div>
-
         <div>
           <h4 className="font-lg text-gray-400 mr-5">Keuntungan</h4>
-          <h5>Rp 2,550</h5>
+          <h5>Rp 870,520</h5>
         </div>
         </div>
 
@@ -116,7 +110,6 @@ function Home() {
           <h4 className="font-lg text-gray-400">Investasi</h4>
           <h5>Rp 0</h5>
         </div>
-
         <div>
           <h4 className="font-lg text-gray-400 mr-5">Keuntungan</h4>
           <h5>Rp 0</h5>
