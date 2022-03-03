@@ -72,7 +72,7 @@ function Home() {
             <div className="border-0 border-gray-50 w-80 bg-white rounded-lg">
               <div className="flex justify-between">
                 <div className="ml-5 mt-2">
-                  <h4 className="font-bold text-sm">Tuku Mobil</h4>
+                  <h4 className="font-bold text-sm">Mobil Jazz</h4>
                   <h1 className="font-lg text-gray-400 text-sm">3 Reksadana</h1>
             </div>
           <div className="mr-5 mt-3">
