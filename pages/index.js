@@ -30,7 +30,7 @@ function Home() {
       </div>
       <div className="flex justify-between">
             <div className="ml-5">
-            Rp 21.927.520
+            Rp 21.927.419
           </div>
             <div className="mr-5">
               <img className="w-4" src="/kunci.jpg" />
