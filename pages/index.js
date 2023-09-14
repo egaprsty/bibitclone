@@ -25,12 +25,12 @@ function Home() {
       {/* First Box */}
         <div className="border-0 border-gray-50 bg-white rounded-lg">
           <div className="ml-5 mt-8 pt-4 font-lg text-gray-400 text-sm">
-            Portfolio
+            Nikah Cucu
           <br/>      
       </div>
       <div className="flex justify-between">
             <div className="ml-5">
-            Rp 21.927.419
+            Rp 89.927.419
           </div>
             <div className="mr-5">
               <img className="w-4" src="/kunci.jpg" />
